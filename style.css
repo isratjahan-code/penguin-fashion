@@ -1,0 +1,136 @@
+section.penguins{
+    display: flex;
+    margin:0 auto;
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-top: 5em;
+    font:arial bold;
+    font-size: fs-1; 
+}
+
+.left{
+    width: 50%;
+    text-align: justify;
+    margin-top: 1em;
+}
+section.profile{
+    width: 100%;
+    display: flex;
+}
+.btn-success{
+    background-color: olivedrab;
+    color: white;
+}
+
+section.card{
+    margin-top:0px;
+    row-gap: 10px;
+    float: left;
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+section.segment{
+    margin-top:0px;
+    row-gap: 10px;
+    float: left;
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+section.nopadsegment{
+    margin-top:0px;
+    row-gap: 10px;
+    float: left;
+    text-align: left;
+    padding-top: 30px;
+    padding-left: 80px;
+    padding-right: 0px;
+}
+
+.card-woman{
+    padding-left: 10px;
+    padding-bottom: 30px;
+    float: left;
+    border-radius: 10px 10px;
+    row-gap: 40px;
+    width: 100%;
+    height:500px;
+    overflow:hidden;
+    display: flexbox;
+    box-shadow: 5px 5px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card-man{
+    padding-left: 10px;
+    padding-bottom: 30px;
+    float: left;
+    border-radius: 10px 10px;
+    row-gap: 40px;
+    width: 100%;
+    height:500px;
+    overflow-wrap:normal;
+    display: flexbox;
+    box-shadow: 5px 5px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.price{
+    font-weight: 700;
+    text-align: left;
+    font-size: 30px;
+    color: orange;
+
+}
+.card-img-top{
+    background-color: rgb(243, 235, 235);
+    border-radius: 10px;
+    box-shadow: grey 10px 10px 40px;
+    display: flex justify-content-center ;
+    overflow: hidden;
+    margin:20px;
+    width: 200px;
+    height: 250px;
+    margin-left: 20px;
+}
+
+.contact-img{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.contact-card{
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.logo{
+   border:tomato solid 3px;
+}
+
+div.calign {
+    text-align: center;
+}
+
+div.calignitem {
+    align-items: center;
+}
+
+div.img{
+    padding-left: 100px;
+}
+
+.carousel-inner img {
+    margin: auto;
+  }
+
+    
+    
+    
